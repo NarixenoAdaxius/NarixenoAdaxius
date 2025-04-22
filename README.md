@@ -4,11 +4,6 @@
   <b>Software Developer | Computer Science</b>  
 </p>
 
-<p align="center">
-  <a href="mailto:dauis.arionejohn@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/arione-john-dauis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
 ---
 
 ## 🚀 About Me  
